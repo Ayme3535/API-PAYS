@@ -1,0 +1,70 @@
+h1 {
+    font-family: 'Rubik Bubbles';
+    text-align: center;
+}
+
+
+#base {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+form {
+    margin-left: 750px;
+}
+button {
+text-align: center;
+font-size: 20px;
+margin-top: 50px;
+margin-bottom: 100px;
+}
+#abre-utilisateur {
+    font-size: 20px;
+}
+#base {
+    width: 30%;
+    height: 150px;
+    background-color:beige;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+#image {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.capture1-2 {
+    margin-bottom: 20px;
+    display: flex;
+    }
+.capture3-4 {
+    display: flex; 
+    margin-bottom: 20px; 
+    }
+.capture5-6 {
+    display: flex;
+    margin-bottom: 20px;
+    }
+.capture7 {
+  width: 70%;
+}
+.capture1 {
+width: 50%;
+}
+.capture2 {
+    width: 50%;
+}
+.capture3 {
+    width: 50%;
+}
+.capture4 {
+    width: 50%;
+}
+.capture5 {
+    width: 50%;
+}
+.capture6 {
+    width: 50%;
+}
+
